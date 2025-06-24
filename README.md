@@ -25,8 +25,8 @@
 
 ## 📫 Vamos nos conectar!
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/seu-perfil) *(adicione seu link real)*
-- 📧 diego.tomazini@exemplo.com *(adicione seu email profissional ou de contato)*
+- 🌐 [LinkedIn](https://www.linkedin.com/in/diego-s-70076711a)
+- 📧 diego.tomazini@gmail.com
 - 🐧 Sempre explorando novas ferramentas, linguagens e abordagens no mundo do open source.
 
 ---
